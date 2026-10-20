@@ -1,0 +1,7 @@
+# The data is not redistributed here. See data/README.md.
+data/*
+!data/README.md
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
